@@ -1,0 +1,25 @@
+{
+  "name": "jes-weappui",
+  "version": "1.0.0",
+  "description": "some uni-app ui component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesBrian/Jes-WeappUI.git"
+  },
+  "keywords": [
+    "uni-app",
+    "vue",
+    "UI",
+    "component"
+  ],
+  "author": "JesBrian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesBrian/Jes-WeappUI/issues"
+  },
+  "homepage": "https://github.com/JesBrian/Jes-WeappUI#readme"
+}
