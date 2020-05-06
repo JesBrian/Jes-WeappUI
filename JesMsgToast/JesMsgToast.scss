@@ -1,0 +1,39 @@
+
+.jes- {
+	&msg-toast {
+		top: 28rpx;
+		left: 50%;
+		width: auto;
+		height: 68rpx;
+		padding: 0 28rpx;
+		position: fixed;
+		z-index: 999;
+		display: flex;
+		//flex-wrap: nowrap;
+		flex-direction: row;
+		align-items: center;
+		justify-content: space-around;
+		box-sizing: border-box;
+		border-radius: 8rpx;
+		border: 1rpx solid #CCC;
+		box-shadow: 0 5rpx 10rpx rgba(0, 0, 0, 0.28);
+		transform: translateX(-50%);
+		font-size: 32rpx;
+		line-height: 68rpx;
+		text-align: center;
+		background: #FFF;
+
+		.icon {
+			margin-right: 18rpx;
+		}
+
+		.message {
+			white-space: nowrap;
+		}
+
+		.closeBtn {
+			margin: 0 -8rpx 0 38rpx;
+			color: #888;
+		}
+	}
+}
